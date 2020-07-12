@@ -12,5 +12,15 @@ This is a webscraper made using Selenium and BeautifulSoup - in Python Language.
 
 ##### Right now this scrapes the stock price from yahoo website. Depending upon the need the URL and the required HTML tag can be edited !
 
+### 13th July **UPDATED**
+_________________________
+
+Scraper for Yahoo news extraction is added. Using this we can extract any stock specific news and date of posting. This data can be used for stock sentiment analysis using natural 
+language processing!
+
+Requirements are same as above - Selenium and BeautifulSoup libraries are needed.
+
+Happy coding!
+
 
 #Thank you
